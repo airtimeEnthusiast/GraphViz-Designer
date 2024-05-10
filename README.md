@@ -1,8 +1,5 @@
 # GraphViz Designer
-GraphViz Designer is a sophisticated program designed to facilitate comprehensive testing of functions within the graphviz-java library.
-
-### Commits 
-![Commits](images/commits.png)
+This project involved the development of a Java program for graph manipulation and analysis, along with implementing various design patterns and continuous integration. The program was designed to facilitate comprehensive testing of functions within the graphviz-java library. 
 
 ### Merge
 ![Merge](images/merge.png)
