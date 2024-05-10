@@ -1,5 +1,5 @@
 # GraphViz Designer
-This project involved the development of a Java program for graph manipulation and analysis, along with implementing various design patterns and continuous integration. The program was designed to facilitate comprehensive testing of functions within the graphviz-java library. 
+This project for a Software QA class involved the development of a Java program for graph manipulation and analysis, along with implementing various design patterns and continuous integration. The program was designed to facilitate comprehensive testing of functions within the graphviz-java library. 
 
 ### Merge
 ![Merge](images/merge.png)
@@ -126,7 +126,7 @@ public void testOutputGraph(){
     }
 ```
 
-#### Check for non-existant node
+#### Check for non-existent node
 ```
     @Test
     public void testPathNotFoundTraversal() {
